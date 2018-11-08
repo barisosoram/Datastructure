@@ -1,5 +1,5 @@
 #BARISO SORA
-#I need comment and feedback before summit it.
+#I need your comment and feedback before I submit it.
 
 
 def reversList(L):

@@ -1,4 +1,6 @@
 #BARISO SORA
+#I need comment and feedback before summit it.
+
 
 def reversList(L):
     if len(L) == 1:       

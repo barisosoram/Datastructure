@@ -1,5 +1,5 @@
 #BARISO SORA
-#I need comment and feedback before summit it.
+#I need your comment and feedback before submit it.
 
 #Find Maximum value in the sequences of list L
 def maximum(L):
